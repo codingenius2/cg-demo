@@ -1,2 +1,2 @@
 const name = "Codingenius";
-console.log("YouTube Name Of my Channel is Codingenius");
+console.log("The Name Of My Youtube Channel is Codingenius");
